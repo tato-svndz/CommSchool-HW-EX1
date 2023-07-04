@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer {
+    width: 700px;
+    color: white;
+    background-color: dodgerblue;
+    border: 15px solid darkblue;
+    padding: 20px;
+}
+
+main {
+    width: 500px;
+    color: black;
+    background-color: yellow;
+    border: 35px solid darkgoldenrod;
+    padding: 20px;
+    margin: 10px 15px 20px 15px;
+}
